@@ -1,7 +1,7 @@
 # graph-test-case-generation
 Given graph generation code works for generation of test cases for a graph.
 It tries keeping graph as deep as possible i.e. distance between 1st node and nth node is not easily reachable.
-It is written to create N test files given as an input by user however, you can modify it as freely as possible as per your requirements.
+It is written to create N test files given as an input by user.
 
 It takes 2 arguments randomly which are,
 
