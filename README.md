@@ -5,9 +5,9 @@ It is written to create N test files given as an input by user.
 
 It takes 2 arguments randomly which are,
 
-n - number of nodes in the graph.
+fil - number of test files you want having a graph.
 
-m - number of edges in the graph.
+cnt - initial value of file number.
 
 It then builds a graph across it keeping graph's flow as deep as possible.
 
